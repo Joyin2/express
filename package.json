@@ -1,0 +1,22 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "My Personal Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joyin2/Personal-Project-of-Express-JS.git"
+  },
+  "author": "Joyin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joyin2/Personal-Project-of-Express-JS/issues"
+  },
+  "homepage": "https://github.com/Joyin2/Personal-Project-of-Express-JS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
